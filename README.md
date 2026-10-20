@@ -13,6 +13,7 @@
 
 - [Automagic dalam 30 detik](#automagic-dalam-30-detik)
 - [Mulai cepat](#mulai-cepat)
+- [Unduh APK final](#unduh-apk-final)
 - [Isi dokumentasi](#isi-dokumentasi)
 - [Struktur repo](#struktur-repo)
 - [Jalur belajar](#jalur-belajar)
@@ -24,7 +25,7 @@
 
 ## Automagic dalam 30 detik
 
-Automagic adalah aplikasi otomasi Android berbasis **flow**. Satu flow terdiri dari tiga jenis komponen:
+Automagic adalah aplikasi otomasi Android berbasis **flow**. Nama lengkapnya **Automagic Premium**, dan versi final 1.37.0 serta 1.38.0 disediakan developer sebagai download resmi. Satu flow terdiri dari tiga jenis komponen:
 
 | Komponen | Peran | Contoh |
 | --- | --- | --- |
@@ -48,6 +49,22 @@ Flow bisa memakai **variabel** untuk membawa data antar komponen, misalnya `{tri
 | Ingin membaca semua komponen sekaligus | [Katalog gabungan](docs/components/all-components.md) |
 | Bingung dengan istilah | [Glosarium](docs/glossary.md) |
 | Punya pertanyaan umum | [FAQ](docs/faq.md) |
+
+## Unduh APK final
+
+Dua build final Automagic tersedia sebagai aset [release v1.0.0](https://github.com/gilanx04/automagic-premium-docs/releases/tag/v1.0.0). Keduanya adalah file resmi dari halaman download developer, disalin tanpa modifikasi.
+
+| Versi | Keterangan | Unduh |
+| --- | --- | --- |
+| **1.38.0** | Versi terbaru, disesuaikan untuk Android 10 | [Automagic_1_38_0.apk](https://github.com/gilanx04/automagic-premium-docs/releases/download/v1.0.0/Automagic_1_38_0.apk) |
+| **1.37.0** | Versi Google Play terakhir, tanpa license check | [Automagic_1_37_0.apk](https://github.com/gilanx04/automagic-premium-docs/releases/download/v1.0.0/Automagic_1_37_0.apk) |
+
+Checksum, keaslian tanda tangan, sumber resmi, dan cara memasang ada di [**docs/apk.md**](docs/apk.md). Ringkasnya:
+
+```text
+73700c9757a7419aa7052175a388af9f8ed3981500e3423fd76354304ddb9556  Automagic_1_37_0.apk
+f3067405c527febcb3751ce08d06edd4455a6377baf1136ca49e015ed2b37518  Automagic_1_38_0.apk
+```
 
 ## Isi dokumentasi
 
@@ -74,6 +91,7 @@ automagic-premium-docs/
 ├── LICENSE                    # catatan hak cipta
 ├── docs/
 │   ├── README.md              # peta dokumentasi
+│   ├── apk.md                 # versi APK, checksum, cara pasang
 │   ├── glossary.md            # istilah Automagic
 │   ├── faq.md                 # pertanyaan umum
 │   ├── guides/                # 4 panduan
@@ -190,7 +208,7 @@ Ini adalah **arsip preservasi tidak resmi**, bukan proyek resmi Automagic.
 - Materi asli disimpan untuk tujuan preservasi, pembelajaran, dan referensi. Silakan kutip dengan atribusi ke `automagic4android.com`.
 - Jika Anda pemegang hak cipta dan ingin materi tertentu dihapus, buka issue agar dapat ditindaklanjuti.
 
-Detail ada di [LICENSE](LICENSE). Repo ini **tidak** menyediakan APK, lisensi, atau kunci Premium Automagic.
+Detail ada di [LICENSE](LICENSE). Repo ini tidak menyediakan lisensi atau kunci Premium. APK di release adalah mirror dari distribusi resmi developer, bukan versi modifikasi.
 
 ## Kredit
 

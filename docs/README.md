@@ -10,10 +10,11 @@ Seluruh dokumentasi Automagic yang berhasil dipulihkan, disusun berdasarkan tuju
 | [Action](components/actions/README.md) | Operasi yang dijalankan flow | 219 | [Indeks action](components/actions/README.md) |
 | [Katalog gabungan](components/all-components.md) | Semua komponen dalam satu berkas | 434 | [Buka katalog](components/all-components.md) |
 | [Referensi](reference/README.md) | Regex, format tanggal/angka, script, Doze, device owner | 6 | [Indeks referensi](reference/README.md) |
+| [APK](apk.md) | Versi final, checksum, keaslian, cara pasang | 2 | [APK Automagic](apk.md) |
 | [Glosarium](glossary.md) | Istilah penting Automagic | — | [Baca glosarium](glossary.md) |
 | [FAQ](faq.md) | Pertanyaan yang sering muncul | — | [Baca FAQ](faq.md) |
 
-**Total halaman dokumentasi: 445** (434 komponen + 4 panduan + 6 referensi + 1 katalog gabungan).
+**Total halaman dokumentasi: 445** (434 komponen + 4 panduan + 6 referensi + 1 katalog gabungan). Halaman [APK](apk.md) dan indeks tidak termasuk hitungan ini.
 
 ## Tiga cara menjelajah
 

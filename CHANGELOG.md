@@ -14,6 +14,8 @@ Rilis publik pertama arsip dokumentasi Automagic.
 - `catalog.json` untuk kebutuhan tooling.
 - Glosarium dan FAQ dalam bahasa Indonesia.
 - 56 gambar yang disimpan lokal di `docs/assets/`.
+- Dua APK final resmi di aset release: `Automagic_1_37_0.apk` dan `Automagic_1_38_0.apk`, disertai `SHA256SUMS`.
+- Halaman [`docs/apk.md`](docs/apk.md) berisi versi, checksum, keaslian tanda tangan, sumber resmi, dan cara memasang.
 - Validator `scripts/validate_docs.py` dan workflow GitHub Actions.
 
 ### Catatan

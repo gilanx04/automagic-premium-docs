@@ -6,7 +6,7 @@ Bukan. Ini arsip tidak resmi yang dibuat untuk menjaga dokumentasi tetap bisa di
 
 ## Apakah Automagic masih bisa dipakai?
 
-Automagic sudah tidak dikembangkan dan tidak lagi tersedia di Google Play. Aplikasi lama masih bisa dipasang secara manual di beberapa perangkat, tetapi kompatibilitasnya sangat bergantung pada versi Android dan ROM. Repo ini **tidak menyediakan file APK**.
+Automagic sudah tidak dikembangkan dan tidak lagi tersedia di Google Play. Aplikasi lama masih bisa dipasang secara manual di beberapa perangkat, tetapi kompatibilitasnya sangat bergantung pada versi Android dan ROM. Dua build final resmi tersedia di [release v1.0.0](https://github.com/gilanx04/automagic-premium-docs/releases/tag/v1.0.0); detail dan checksumnya ada di [APK Automagic](apk.md).
 
 ## Kenapa isi dokumentasinya bahasa Inggris?
 
@@ -18,7 +18,7 @@ Tidak selalu. Automagic dirancang pada era Android sebelum pembatasan latar bela
 
 ## Apa itu Automagic Premium?
 
-Automagic Premium adalah versi berbayar yang membuka komponen dan fitur tambahan. Di dokumentasi, beberapa komponen ditandai **(Premium)**. Repo ini mendokumentasikan semua komponen, baik versi gratis maupun Premium.
+**Automagic Premium** adalah nama aplikasinya. Di dokumentasi, beberapa komponen ditandai **(Premium)** sebagai fitur tambahan. Setelah aplikasi ditarik dari Play Store, developer merilis versi final 1.37.0 tanpa license check dan 1.38.0 sebagai download resmi, sehingga keduanya bisa dipakai tanpa pembelian.
 
 ## Bagaimana cara membaca satu halaman komponen?
 

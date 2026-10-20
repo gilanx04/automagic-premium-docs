@@ -24,7 +24,7 @@ Istilah yang dipakai di seluruh dokumentasi. Nama Inggris dipertahankan karena i
 | **Device owner** | Status administrator khusus yang memberi aplikasi izin lebih luas. Sebagian fitur Automagic membutuhkannya. |
 | **Doze mode** | Mode hemat daya Android yang membatasi aktivitas latar belakang. Bisa membuat trigger atau action terlambat berjalan. |
 | **Root** | Akses superuser pada Android. Sebagian action lanjutan memerlukannya, tetapi banyak otomasi dasar tidak. |
-| **Premium** | Versi berbayar Automagic yang membuka komponen dan fitur tambahan. Dokumentasi di repo ini mencakup komponen Premium maupun non-Premium. |
+| **Premium** | Nama aplikasinya, **Automagic Premium**. Beberapa komponen ditandai **(Premium)** sebagai fitur tambahan. Versi final 1.37.0 dan 1.38.0 dirilis developer sebagai download resmi, dengan 1.37.0 tanpa license check. |
 
 ## Istilah yang sering tertukar
 

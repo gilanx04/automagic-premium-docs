@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 
 EXPECTED = {"triggers": 127, "conditions": 88, "actions": 219}
-INDEX_FILES = {"README.md", "glossary.md", "faq.md"}
+INDEX_FILES = {"README.md", "glossary.md", "faq.md", "apk.md"}
 
 errors: list[str] = []
 warnings: list[str] = []
