@@ -5340,7 +5340,7 @@ Examples:
 - Check if the accuracy of a location is good enough: `location_accuracy<300`
 - Check if a counter reached zero: `counter==0`
 
-[See action Script for a description of the scripting language.](#scan-barcode)
+[See action Script for a description of the scripting language.(actions/action_script.md#string-inline-expressions)
 
 #### Settings
 
@@ -12436,7 +12436,7 @@ putInt("key4", 42);
 putInt("key5", a+4*b);
 ```
 
-[See action Script for a description of the scripting language.](#scan-barcode)
+[See action Script for a description of the scripting language.(actions/action_script.md#string-inline-expressions)
 
 ##### Send ordered broadcast
 
@@ -12475,7 +12475,7 @@ Following functions are supported:
 - `getParcelableArrayListAsString(String key)`
 - `getParcelable(String key)`
 
-[See action Script for a description of the scripting language.](#scan-barcode)
+[See action Script for a description of the scripting language.(actions/action_script.md#string-inline-expressions)
 
 A variable is a container for a value that can be used in many actions and conditions to dynamically define a part of a text.
 [See action Script for a description.](#string-inline-expressions)
@@ -14531,7 +14531,7 @@ putInt("key4", 42);
 putInt("key5", a+4*b);
 ```
 
-[See action Script for a description of the scripting language.](#scan-barcode)
+[See action Script for a description of the scripting language.(actions/action_script.md#string-inline-expressions)
 
 ##### Wait for result
 
@@ -14570,7 +14570,7 @@ Following functions are supported:
 - `getParcelableArrayListAsString(String key)`
 - `getParcelable(String key)`
 
-[See action Script for a description of the scripting language.](#scan-barcode)
+[See action Script for a description of the scripting language.(actions/action_script.md#string-inline-expressions)
 
 A variable is a container for a value that can be used in many actions and conditions to dynamically define a part of a text.
 [See action Script for a description.](#string-inline-expressions)
@@ -14752,7 +14752,7 @@ putInt("key4", 42);
 putInt("key5", a+4*b);
 ```
 
-[See action Script for a description of the scripting language.](#scan-barcode)
+[See action Script for a description of the scripting language.(actions/action_script.md#string-inline-expressions)
 
 ---
 
